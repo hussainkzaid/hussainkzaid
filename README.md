@@ -7,7 +7,7 @@
 ### Data Analyst | Data Scientist | Data Engineer | Embedded Systems & IoT
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Turning+data+into+insights+and+Building+intelligent+solutions;Exploring+Embedded+Systems+%26+IoT" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Turning+data+into+insights;Building+intelligent+solutions;Exploring+Embedded+Systems+%26+IoT" />
 </p>
 
 </div>
