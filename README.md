@@ -2,7 +2,7 @@
 
 # Hussain Kamel
 
-### Data Analyst | Computer Engineering Student
+### Computer Engineering Student | Aspiring Data Analyst
 
 Turning data into meaningful insights 📊
 
@@ -13,33 +13,35 @@ Turning data into meaningful insights 📊
 ## About Me
 
 - 🎓 Computer Engineering student at Mansoura University
-- 📊 Interested in Data Analysis and Data Science
-- 🐍 Working with Python, SQL, and Power BI
-- 📈 Learning data visualization and machine learning
+- 📊 Interested in Data Analysis, Data Science, and Business Intelligence
+- 🐍 Experienced with Python and its data analysis libraries
+- 📈 Passionate about creating clear and useful visualizations
 
 ---
 
-## Tech Stack
-
-### Languages & Libraries
+## Languages & Libraries
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp" />
+  <img src="https://skillicons.dev/icons?i=python,java,c" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Seaborn-4c72b0?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 </p>
+
+### SQL
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
-### BI & Visualization
+---
+
+## Visualization & Business Intelligence
 
 <p align="center">
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
@@ -48,10 +50,9 @@ Turning data into meaningful insights 📊
   <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" />
 </p>
 
-### Tools
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Seaborn-4c72b0?style=for-the-badge" />
 </p>
 
 ---
@@ -59,9 +60,9 @@ Turning data into meaningful insights 📊
 ## Featured Projects
 
 - 📊 [Movie Data Analysis](YOUR_REPOSITORY_LINK)
-- 🗃️ [Student Database Management System](YOUR_REPOSITORY_LINK)
-- 🐍 [NumPy Tasks](YOUR_REPOSITORY_LINK)
 - 📈 [Data Visualization Projects](YOUR_REPOSITORY_LINK)
+- 🔢 [NumPy Tasks](YOUR_REPOSITORY_LINK)
+- 🗃️ [Student Database Management System](YOUR_REPOSITORY_LINK)
 
 ---
 
