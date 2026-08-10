@@ -4,7 +4,7 @@
 
 ### Data Analyst | Data Scientist | Data Engineer | Embedded Systems & IoT
 
-Turning data into meaningful insights 📊
+Turning data into insights and intelligent solutions 📊⚙️
 
 </div>
 
@@ -34,13 +34,11 @@ Turning data into meaningful insights 📊
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 </p>
 
-### SQL
+### Databases & SQL
 
 <p align="center">
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
-
----
 
 ## Visualization & Business Intelligence
 
