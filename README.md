@@ -2,7 +2,7 @@
 
 # Hussain Kamel
 
-### Computer Engineering Student | Aspiring Data Analyst
+### Data Analyst | Data Scientist | Data Engineer | Embedded Systems & IoT
 
 Turning data into meaningful insights 📊
 
@@ -13,9 +13,10 @@ Turning data into meaningful insights 📊
 ## About Me
 
 - 🎓 Computer Engineering student at Mansoura University
-- 📊 Interested in Data Analysis, Data Science, and Business Intelligence
-- 🐍 Experienced with Python and its data analysis libraries
-- 📈 Passionate about creating clear and useful visualizations
+- 📊 Data Analyst interested in Data Science and Data Engineering
+- ⚙️ Interested in Embedded Systems and Internet of Things (IoT)
+- 🐍 Experienced with Python, NumPy, Pandas, Matplotlib, Seaborn, and Scikit-learn
+- 📈 Interested in transforming data into useful insights and intelligent solutions
 
 ---
 
