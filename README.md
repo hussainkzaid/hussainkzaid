@@ -68,22 +68,13 @@
 
 ---
 
-## Featured Projects
-
-- 📊 [Movie Data Analysis](YOUR_REPOSITORY_LINK)
-- 📈 [Data Visualization Projects](YOUR_REPOSITORY_LINK)
-- 🔢 [NumPy Tasks](YOUR_REPOSITORY_LINK)
-- 🗃️ [Student Database Management System](YOUR_REPOSITORY_LINK)
-
----
-
 ## Connect With Me
 
 <p align="center">
   <a href="mailto:hussainkamel715@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="YOUR_LINKEDIN_LINK">
+  <a href="https://www.linkedin.com/in/hussain-zaid-404596374/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
