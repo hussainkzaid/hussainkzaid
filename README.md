@@ -1,14 +1,14 @@
+<div align="center">
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Hussain%20Kamel&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<div align="center">
-
-# Hussain Kamel
-
 ### Data Analyst | Data Scientist | Data Engineer | Embedded Systems & IoT
 
-Turning data into insights and intelligent solutions 📊⚙️
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Turning+data+into+insights;Building+intelligent+solutions;Exploring+Embedded+Systems+%26+IoT" />
+</p>
 
 </div>
 
