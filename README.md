@@ -34,12 +34,6 @@ Turning data into meaningful insights 📊
   <img src="https://img.shields.io/badge/Seaborn-4c72b0?style=for-the-badge" />
 </p>
 
-### Databases & SQL
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
-</p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge" />
   <img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
@@ -57,7 +51,7 @@ Turning data into meaningful insights 📊
 ### Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" />
+  <img src="https://skillicons.dev/icons?i=git,github" />
 </p>
 
 ---
